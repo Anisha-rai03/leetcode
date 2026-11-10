@@ -46,4 +46,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Anisha-rai03/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## String
+|  |
+| ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Anisha-rai03/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+## Greedy
+|  |
+| ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Anisha-rai03/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+## Counting
+|  |
+| ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Anisha-rai03/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
