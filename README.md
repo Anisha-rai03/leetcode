@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Anisha-rai03/leetcode/tree/master/0058-length-of-last-word) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Anisha-rai03/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Greedy
 |  |
